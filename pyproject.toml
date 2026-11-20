@@ -1,0 +1,8 @@
+[project]
+name = "a-ponte"
+version = "1.0.0"
+description = "Agente A2A com um servidor MCP por dentro"
+requires-python = ">=3.10"
+dependencies = [
+  "mcp==2.3.0",
+]
